@@ -1,0 +1,92 @@
+Running maps/everything_valid.cub
+  Map is not closed properlydouble free or corruption (out)
+--------------------------------------------------
+Running maps/map_complex_leading_spaces_1.cub
+--------------------------------------------------
+Running maps/map_complex_leading_spaces_2.cub
+--------------------------------------------------
+Running maps/map_complex_leading_spaces_differing_line_lengths.cub
+--------------------------------------------------
+Running maps/map_complex_subject.cub
+--------------------------------------------------
+Running maps/map_none.cub
+  Map is not closed properlydouble free or corruption (out)
+--------------------------------------------------
+Running maps/map_simple_all_walls.cub
+--------------------------------------------------
+Running maps/map_simple_extra_position.cub
+  Map is invalid--------------------------------------------------
+Running maps/map_simple_illegal_char.cub
+  Map is invalid (invalid char)--------------------------------------------------
+Running maps/map_simple_large.cub
+--------------------------------------------------
+Running maps/map_simple_minimap_test.cub
+--------------------------------------------------
+Running maps/map_simple_no_position.cub
+--------------------------------------------------
+Running maps/map_simple_rect_wide.cub
+--------------------------------------------------
+Running maps/map_simple_smallest_valid.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/map_single_0.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/map_single_1.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/map_single_illegal_char.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/map_wall_jean.cub
+--------------------------------------------------
+Running maps/map_wall_slack_1_valid.cub
+--------------------------------------------------
+Running maps/map_wall_slack_2_valid.cub
+  Map is not closed properly--------------------------------------------------
+Running maps/map_wall_slack_3_invalid.cub
+--------------------------------------------------
+Running maps/preamble_color_double_comma.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_extra_comma.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_invalid_value_1.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_invalid_value_2.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_invalid_value_3.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_omitted_comma.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_omitted_prefix.cub
+  Color input invalid--------------------------------------------------
+Running maps/preamble_color_omitted_values.cub
+  Color input is invalidColor input invalid--------------------------------------------------
+Running maps/preamble_color_repeated_prefix.cub
+  Color input invalid--------------------------------------------------
+Running maps/preamble_newlines_at_end_invalid.cub
+  New lines in map--------------------------------------------------
+Running maps/preamble_newlines_none.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/preamble_newlines_random.cub
+--------------------------------------------------
+Running maps/preamble_random_order.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/preamble_spaces_none.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
+Running maps/preamble_spaces_random.cub
+--------------------------------------------------
+Running maps/preamble_texture_double_repeated_prefix.cub
+--------------------------------------------------
+Running maps/preamble_texture_invalid.cub
+--------------------------------------------------
+Running maps/preamble_texture_omitted_path.cub
+--------------------------------------------------
+Running maps/preamble_texture_omitted_prefix.cub
+  Texture file(s) missing--------------------------------------------------
+Running maps/preamble_texture_repeated_prefix.cub
+  Map is not closed properlyfree(): invalid pointer
+--------------------------------------------------
